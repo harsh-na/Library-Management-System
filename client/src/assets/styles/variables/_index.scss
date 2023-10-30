@@ -1,0 +1,12 @@
+@import "./colors";
+
+$navbar-width:68px;
+$header-height:64px;
+$navbar-opened-width:calc(#{$navbar-width} + 160px);
+
+
+//paddings
+$padding-navbar-left:14px;
+
+$link-fontSize:14px;
+$menu-link-fontSize:14px;

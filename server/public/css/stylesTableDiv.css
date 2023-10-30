@@ -1,0 +1,31 @@
+#book{
+    background-color: white;
+    min-width: 60px;
+}
+#author{
+    background-color: white;
+    min-width: 60px;
+}
+#quantityAll{
+    background-color: white;
+    min-width: 60px;
+}
+#quantityFree{
+    background-color: white;
+    min-width: 60px;
+}
+#category{
+    background-color: white;
+    min-width: 20px;
+}
+#isbn{
+    background-color: white;
+    min-width: 90px;
+}
+.cont, .row_data
+{
+display:block;
+}
+#editTr{
+background-color: rgb(201, 201, 201);
+}
